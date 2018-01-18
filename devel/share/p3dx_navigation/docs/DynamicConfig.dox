@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~linear_vel" : \b [double] Current linear velocity min: -std::numeric_limits<double>::infinity(), default: 1.0, max: std::numeric_limits<double>::infinity()
+- \b "~angular_vel" : \b [double] Current angular velocity min: -std::numeric_limits<double>::infinity(), default: 0.0, max: std::numeric_limits<double>::infinity()
+

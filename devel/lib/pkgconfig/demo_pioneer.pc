@@ -1,0 +1,8 @@
+prefix=/home/campusbot/dev/roboware_ws_p3dx_navigation/devel
+
+Name: demo_pioneer
+Description: Description of demo_pioneer
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/campusbot/dev/roboware_ws_p3dx_navigation/devel/lib 
+Requires: rosconsole roscpp visp_bridge

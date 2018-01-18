@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/campusbot/dev/roboware_ws_p3dx_navigation/devel/setup.sh
